@@ -31,3 +31,5 @@ $ python booking.py
 * scrape most popular facilities
 * scrape attractions recommended by locals
 * house rules
+
+made by: https://w-e-ll.com/cv/
