@@ -1,0 +1,255 @@
+[
+    {
+        "BREAKFAST_INFO": null,
+        "FACILITIES": [
+            {
+                "Wellness facilities": [
+                    "Fitness",
+                    "Solarium Additional charge",
+                    "Fitness centre"
+                ]
+            },
+            {
+                "Food & Drink": [
+                    "Bottle of water",
+                    "Bottle of water",
+                    "Room service",
+                    "Restaurant",
+                    "Tea/Coffee Maker"
+                ]
+            },
+            {
+                "Services & Extras": [
+                    "Wake-up service"
+                ]
+            },
+            {
+                "Reception services": [
+                    "ATM/cash machine on site",
+                    "Currency exchange"
+                ]
+            }
+        ],
+        "LEN_FROM_CENTER": "2.2 km from centre",
+        "NAME": "RentroomChisinau",
+        "NEARBY": [
+            {
+                "Closest landmarks": [
+                    [
+                        "Central market",
+                        "3.4 km"
+                    ],
+                    [
+                        "Chisinau Town Hall",
+                        "4.1 km"
+                    ],
+                    [
+                        "Moldova State University",
+                        "4.2 km"
+                    ],
+                    [
+                        "National Museum of Archeology and History of Moldova",
+                        "4.3 km"
+                    ],
+                    [
+                        "Birth of Christ Cathedral",
+                        "4.3 km"
+                    ],
+                    [
+                        "The Triumphal Arch Chisinau",
+                        "4.4 km"
+                    ],
+                    [
+                        "Cathedral Park",
+                        "4.6 km"
+                    ],
+                    [
+                        "Stefan The Great City Park",
+                        "4.6 km"
+                    ],
+                    [
+                        "National Opera and Ballet Theater",
+                        "4.7 km"
+                    ],
+                    [
+                        "Dendrarium Botanical Garden Chisinau",
+                        "5.7 km"
+                    ]
+                ]
+            },
+            {
+                "Restaurants and markets": [
+                    [
+                        "Plaza Supermarket",
+                        "0.2 km"
+                    ],
+                    [
+                        "Рынок Market",
+                        "0.4 km"
+                    ],
+                    [
+                        "Maximilian Pub & Grill Restaurant",
+                        "0.5 km"
+                    ],
+                    [
+                        "KIKU Steak & Wine Restaurant Restaurant",
+                        "0.5 km"
+                    ],
+                    [
+                        "Vasabi Restaurant",
+                        "1 km"
+                    ],
+                    [
+                        "OSHO bar&kitchen Cafe/bar",
+                        "1 km"
+                    ],
+                    [
+                        "MI piace Cafe/bar",
+                        "1 km"
+                    ],
+                    [
+                        "Elat Supermarket",
+                        "1 km"
+                    ]
+                ]
+            },
+            {
+                "Natural beauty": []
+            },
+            {
+                "Closest airports": [
+                    [
+                        "Chișinău International Airport",
+                        "8.8 km"
+                    ],
+                    [
+                        "Iași International Airport",
+                        "96.2 km"
+                    ]
+                ]
+            }
+        ],
+        "RESTAURANTS": [
+            {
+                "Vasabi": [
+                    "Cuisine: Japanese, Seafood, Sushi",
+                    "Menu: À la carte"
+                ]
+            },
+            {
+                "Blinoff": [
+                    "Cuisine: Russian",
+                    "Menu: À la carte"
+                ]
+            },
+            {
+                "Manimoto": [
+                    "Cuisine: Russian",
+                    "Menu: À la carte"
+                ]
+            },
+            {
+                "Kiku Steak&Vine Restaurant": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "Mi Piace": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "Park Avenue Restaurant": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "La Plăcinte": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "Maximilian Pub & Grill": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "Караоке Чердак": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "Draft Arena": [
+                    "No additional info available"
+                ]
+            },
+            {
+                "Рандеву": [
+                    "No additional info available"
+                ]
+            }
+        ],
+        "ROOM_TYPES": [
+            [
+                "One-Bedroom Apartment",
+                [
+                    "Start of dialog content",
+                    "댴 Private bathroom",
+                    "Apartment size: 55 m²",
+                    "This apartment has a electric kettle, bathrobe and air conditioning.",
+                    "Apartment facilities:",
+                    "Tea/Coffee Maker",
+                    "Shower",
+                    "Bath",
+                    "TV",
+                    "Hairdryer",
+                    "Iron",
+                    "Kitchenette",
+                    "Balcony",
+                    "Bathrobe",
+                    "Refrigerator",
+                    "Ironing Facilities",
+                    "Seating Area",
+                    "Free toiletries",
+                    "Toilet",
+                    "Microwave",
+                    "Washing Machine",
+                    "Private bathroom",
+                    "Heating",
+                    "Dressing Room",
+                    "Slippers",
+                    "Kitchen",
+                    "Cable Channels",
+                    "Bath or Shower",
+                    "Carpeted",
+                    "Flat-screen TV",
+                    "Private entrance",
+                    "Tile/Marble floor",
+                    "View",
+                    "Hardwood or parquet floors",
+                    "Wake-up service",
+                    "Dining area",
+                    "Electric kettle",
+                    "Kitchenware",
+                    "Mosquito net",
+                    "Wardrobe or closet",
+                    "Oven",
+                    "Stovetop",
+                    "Cleaning products",
+                    "Towels",
+                    "Linen",
+                    "Dining table",
+                    "Entire unit located on ground floor",
+                    "Upper floors accessible by lift",
+                    "Detached",
+                    "Private flat in building",
+                    "Clothes rack",
+                    "Drying rack for clothing",
+                    "Toilet paper"
+                ]
+            ]
+        ],
+        "ROOM_TYPE_QUANTITY": 1,
+        "UNID": "22a0a2e592ee22b4ebebb2f8b1e5d18394a05d91"
+    }
+]
