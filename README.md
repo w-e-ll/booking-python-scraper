@@ -32,4 +32,4 @@ $ python booking.py
 * scrape attractions recommended by locals
 * house rules
 
-made by: https://w-e-ll.com/cv/
+made by: https://w-e-ll.com
